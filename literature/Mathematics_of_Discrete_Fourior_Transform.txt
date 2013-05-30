@@ -1,0 +1,3 @@
+MATHEMATICS OF THE 
+DISCRETE FOURIER TRANSFORM (DFT) 
+https://ccrma.stanford.edu/~jos/mdft/

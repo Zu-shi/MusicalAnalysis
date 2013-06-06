@@ -13,7 +13,7 @@ import com.badlogic.audio.visualization.Plot;
 
 public class MultiBandThreshold_Original 
 {
-	public static final String FILE = "samples/hitme.mp3";
+	public static final String FILE = "samples/misty.mp3";
 	public static final int HOP_SIZE = 512;
 	public static final int HISTORY_SIZE = 50;
 	//

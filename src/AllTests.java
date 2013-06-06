@@ -25,6 +25,7 @@ import junit.framework.TestSuite;
 /**
  * JavaLayer test suite.
  */
+
 public class AllTests
 {
 	public static Test suite()
